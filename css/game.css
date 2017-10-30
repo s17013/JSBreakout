@@ -1,0 +1,29 @@
+body {
+    background-color: darkcyan;
+
+}
+
+canvas#board {
+    background-color: black;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+section#display{
+    width: 640px;
+    height: 1.5em;
+    margin-right:auto;
+    margin-left: auto;
+    text-align: right;
+    
+}
+
+div#score{
+    display: inline-block;
+    background-color: black;
+    color: #ffffff;
+    font-weight: bold;
+    min-width: 10em;
+    margin-bottom: 0.5em;
+}
